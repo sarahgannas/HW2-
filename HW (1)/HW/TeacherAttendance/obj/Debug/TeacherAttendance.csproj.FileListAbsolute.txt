@@ -1,0 +1,31 @@
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csprojAssemblyReference.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
+E:\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+E:\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+E:\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
+C:\Users\HP\Desktop\HW\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+C:\Users\HP\Desktop\HW\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+C:\Users\HP\Desktop\HW\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
+C:\Users\HP\Desktop\HW\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+C:\Users\HP\Desktop\HW\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+C:\Users\HP\Desktop\HW\TeacherAttendance\obj\Debug\TeacherAttendance.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\HW\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\HP\Desktop\HW\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\HP\Desktop\HW\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\HW (1)\HW\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+C:\Users\HP\Downloads\HW (1)\HW\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+C:\Users\HP\Downloads\HW (1)\HW\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+C:\Users\HP\Downloads\HW (1)\HW\TeacherAttendance\obj\Debug\TeacherAttendance.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\HW (1)\HW\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\HP\Downloads\HW (1)\HW\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\HP\Downloads\HW (1)\HW\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\HW (1)\HW\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+C:\Users\HP\Downloads\HW (1)\HW\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
